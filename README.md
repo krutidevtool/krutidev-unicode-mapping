@@ -9,6 +9,10 @@ Kruti Dev is not Unicode: it maps Devanagari shapes onto Latin keyboard characte
 - Unicode → Kruti Dev: https://krutidevtool.com/unicode-to-krutidev/
 - Kruti Dev → Unicode: https://krutidevtool.com/krutidev-to-unicode/
 - Kruti Dev keyboard chart: https://krutidevtool.com/krutidev-keyboard/
+- Kruti Dev → Mangal (for MS Word and e-Office): https://krutidevtool.com/krutidev-to-mangal/
+- Kruti Dev Word file (.docx) → Unicode, no upload: https://krutidevtool.com/krutidev-word-file-to-unicode/
+
+[![Kruti Dev 010 keyboard chart](https://krutidevtool.com/assets/kb/krutidev-010-keyboard-chart.png)](https://krutidevtool.com/krutidev-keyboard/)
 
 ## Files
 
